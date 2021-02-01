@@ -43,7 +43,8 @@ $ ls -l Documents<ENTER>
 
 Copy and paste the first *two lines* of output below.
 ----------
-
+drwxr-xr-x@   8 ashantisease  staff   256 Jan 24 16:13 Applications
+drwx------@   4 ashantisease  staff   128 Jan 23 02:10 Creative Cloud Files
 
 
 
@@ -56,10 +57,7 @@ $ ls -a Documents
 
 Copy and paste the first *two lines* of output below.
 ----------
-
-
-
-
+.		..		.DS_Store	.localized	Adobe		Electronic Arts
 
 
 ==========
