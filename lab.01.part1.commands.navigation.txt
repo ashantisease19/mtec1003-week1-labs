@@ -143,7 +143,7 @@ Follow the instructions line-by-line.
 ==========
 12. Open a new terminal window. Create a directory called mtec1002. What command did you use?
 ----------
-
+mkdir
 
 
 
@@ -152,7 +152,7 @@ Follow the instructions line-by-line.
 ==========
 13. Change your directory so that you're in mtec1002. What command did you use?
 ----------
-
+cd
 
 
 
@@ -169,7 +169,7 @@ If it doesn't ask for help before moving on!
 
 Copy and paste the output of pwd below.
 ----------
-
+/Users/ashantisease/mtec1003
 
 
 
@@ -183,8 +183,7 @@ $ ls
 
 Copy and paste the output below.
 ----------
-
-
+animals
 
 
 
@@ -197,7 +196,7 @@ $ ls
 
 Copy and paste the output below.
 ----------
-
+animals	food
 
 
 
@@ -211,11 +210,9 @@ $ ls
 
 Copy and paste the output below.
 ----------
+animals	foo	food
 
-
-
-
-
+(-p option/flag is recursive, meaning it recursively nest one folder inside another)
 
 ==========
 18. Type:
