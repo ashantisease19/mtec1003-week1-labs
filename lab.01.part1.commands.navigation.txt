@@ -26,16 +26,6 @@ ashantisease@Ashantis-MBP ~ %
 
 
 
-
-
-
-
-
-
-
-
-
-
 ==========
 2.  Type:
 
@@ -67,9 +57,7 @@ $ ls doesnotexist
 
 Copy and paste the output below.
 ----------
-
-
-
+ls: doesnotexist: No such file or directory
 
 
 
@@ -77,15 +65,14 @@ Copy and paste the output below.
 5.  What key do I press to go to the previous command?
 ----------
 
-
-
+The up arrow on the keyboard.
 
 
 
 ==========
 6.  Name two flags that we used in this exercise.
 ----------
-
+-l (list the long form of all the fields) and -a (list ALL files, including hidden files)
 
 
 
@@ -95,7 +82,7 @@ Copy and paste the output below.
 7.  What was the main command that we used throughout this exercise?
 ----------
 
-
+ls (list all of the files)
 
 
 
@@ -103,7 +90,8 @@ Copy and paste the output below.
 ==========
 8.  What's one an argument that we've so far passed to a command?
 ----------
-
+doesnotexist
+Documents
 
 
 
@@ -116,9 +104,7 @@ $ foo<ENTER>
 
 Copy and paste the output below.
 ----------
-
-
-
+zsh: command not found: foo
 
 
 
@@ -129,10 +115,7 @@ Copy and paste the output below.
 
 Copy and paste the output below.
 ----------
-
-
-
-
+zsh: command not found: foo
 
 
 ==========
@@ -142,9 +125,10 @@ $ ls -a Desktop
 
 Identify the command, flag, argument, and prompt:
 ----------
-
-
-
+command: ls
+option/flag: -a
+argument: Desktop
+prompt: $/% (The prompt is the symbol that tells you it's ready for a command and it is currently not running one.)
 
 
 Lab 1 / Part 2 - Navigating the File System
