@@ -15,6 +15,21 @@ $ ls<ENTER>
 
 Copy and paste the output of ls below.
 ----------
+Applications				Google Drive				Public
+Creative Cloud Files			Library					iMovie Library 1 1.imovielibrary
+Desktop					Movies					iMovie Library 1.imovielibrary
+Documents				Music
+Downloads				Pictures
+ashantisease@Ashantis-MBP ~ % 
+
+
+
+
+
+
+
+
+
 
 
 
